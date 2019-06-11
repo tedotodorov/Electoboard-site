@@ -1,0 +1,75 @@
+﻿
+}
+
+.s1 {
+    color: black;
+    font-size: 50px;
+    font-style:oblique;
+}
+
+
+
+#button1 {
+    background-color: greenyellow;
+    border: none;
+    color: white;
+    padding: 10px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    position:  absolute;
+    top: 40%;
+    left:15%;
+}
+#button2 {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    right: 20%;
+}
+
+h3{
+    color: black;
+}
+h4.color {
+    color: red;
+}
+h2 {
+    color: red;
+    font-size 20;
+}
+a. {
+}
+
+img{
+    max-height: 40% !important;
+}
+.tales {
+    width: 400px;
+    height: 300px;
+}
+.bg-cover {
+    background-image: url({% static 'pictures/logo-eventmanager.png' %
+}
+a {
+    text-decoration:none;
+    text-decoration-color:red;
+}
+
+);
+background-color: black;
+background-size:cover;
+height:60rem
+}
